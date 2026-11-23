@@ -1,0 +1,14 @@
+{
+  "appId": "com.mazkiplay.dramabox",
+  "appName": "M4zk1pL4yDramaBox",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
